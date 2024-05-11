@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Requires aircrack-ng to run
 
 # Define a function to handle user input
 handle_input() {
